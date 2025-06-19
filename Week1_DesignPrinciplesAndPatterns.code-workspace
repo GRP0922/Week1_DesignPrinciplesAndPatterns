@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/mavenProject"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
